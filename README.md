@@ -1,5 +1,6 @@
 Russian localization of Stable Diffusion webui
 
+# Актуальная версия включает в себя перевод не только "тела" Stable Diffusion, но и ряда дополнений.
 # Скрипт для добавки отсутствующих ключей
 
 ```python
